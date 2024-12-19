@@ -1,6 +1,7 @@
 # Laravel Socialite Seznam Driver
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-This package provides Seznam.cz driver for Laravle socialite. This can be used to utilize oAuth via Laravel Socialite in Laravel projects with ease.
+This package offers a [Seznam.cz](https://www.seznam.cz) driver for [Laravel Socialite](https://laravel.com/docs/11.x/socialite), allowing seamless integration of OAuth in Laravel projects. It simplifies the process of leveraging Laravel Socialite for user authentication via Seznam.cz, enhancing the overall project efficiency.
 
 ## Installation
 
